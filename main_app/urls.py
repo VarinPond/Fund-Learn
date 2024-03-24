@@ -7,3 +7,4 @@ urlpatterns = [
     path('register', register, name='register-landing')
     # Add more URL patterns as needed
 ]
+
